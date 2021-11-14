@@ -1,0 +1,16 @@
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\bin\Debug\Інивідуальне_Завдання.exe.config
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\bin\Debug\Інивідуальне_Завдання.exe
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\bin\Debug\Інивідуальне_Завдання.pdb
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Form1.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Properties.Resources.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.csproj.GenerateResource.cache
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.csproj.CoreCompileInputs.cache
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.exe
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.pdb
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Forms.Square1.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Forms.Convector1.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Forms.Tabyl1.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Forms.Home1.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Forms.Mass_1.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.Forms.Verefication.resources
+D:\Visual Studio2019\Практика\Інивідуальне_Завдання\obj\Debug\Інивідуальне_Завдання.csprojAssemblyReference.cache
